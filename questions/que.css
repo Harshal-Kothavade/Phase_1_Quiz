@@ -1,0 +1,11 @@
+.container{
+    text-align: left;
+    width: 500px;
+    height: 600px;
+    margin-left: 20px;
+    margin: auto;
+    padding: 20px;
+    background-color: salmon;
+    border: red 2px solid;
+    color: rebeccapurple;
+}
